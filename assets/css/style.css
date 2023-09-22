@@ -85,6 +85,7 @@ a.nav-link:hover{
 .content__section{
     margin: 130px 0;
 }
+
 .name_h2{
     color: #212121;
     font-size: 55px;
@@ -96,7 +97,7 @@ a.nav-link:hover{
     font-size: 28px;
     font-weight: 700;
     line-height: 160%; 
-    margin: 20px 0;
+    margin: 6px 0 16px 0;
 }
 .description_p{
     color: #212121;
@@ -114,13 +115,17 @@ a.nav-link:hover{
     line-height: 160%; 
     
 }
+
+.experience{
+    margin: 22px 0 7px 0;
+}
 .number{
     border: 1px solid #DCDCE1;
     border-radius:20px ;
     padding: 18px;
     display: flex;
     justify-content: space-between;
-    margin: 7px 0 16px 0;
+    margin: 7px 0 14px 0;
 }
 .sub-text{
     color: #212121;
